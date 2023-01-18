@@ -3,6 +3,17 @@
 #### The app basically allows users to rent audiobooks and check their library. There are two panels at the entrance. Admin panel and User panel. Admin can add new users and new books to DBAudiobook database after entering admin information. During these additions, you can access the required features from the ER-Diagram below. When the admin wanted to add new users and books, we tried to give importance to the use of functions and triggers as well as PostgreSQL queries running in the backend. I can say that we have added 4-5 functional features. At the user login, there are 3 interfaces. From the Profile section, the user can see instant information (username, password, wallet..). From the Buy a Book section, the user can buy new books, see all the features of these books, how many minutes they are, and what their prices are. From the Library section, the user can see his own books.
 
 <hr>
+<h2> Used Technologies </h2>
+Programming Language: <em><strong>C#</strong></em> <br>
+Front End: <em><strong>Windows Form Application</strong></em> <br>
+Database: <em><strong>PostgreSQL</strong></em> <br>
+The data provider we use when connecting the front end to PostgreSQL: <em><strong><a href="https://www.npgsql.org">Npgsql</a></strong></em>
+<p float="left">
+    <img width="120" height="120"alt="a1" src="https://user-images.githubusercontent.com/94539804/213295201-f7f42d41-cda5-425c-bba2-1a0df03ed4c0.png">
+    <img width="120" height="120"alt="a1" src="https://user-images.githubusercontent.com/94539804/213294212-6fbc1b09-a2b7-4fa5-a038-af195a0dc253.png">  
+</p>
+
+<hr>
 <h1> ER Diagram </h1>
 <img width="805" height="450"alt="ss" src="https://user-images.githubusercontent.com/94539804/213287629-dea1e680-75e1-46b9-bfb7-da099bdd0628.png">
 
