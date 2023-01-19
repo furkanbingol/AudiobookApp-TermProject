@@ -1,0 +1,60 @@
+<VSTemplate Version="3.0.0" xmlns="http://schemas.microsoft.com/developer/vstemplate/2005" Type="Project">
+  <TemplateData>
+    <Name>Sesli_Kitap_Uygulamasi_Bilgi_ Sistemi</Name>
+    <Description>&lt;No description available&gt;</Description>
+    <ProjectType>CSharp</ProjectType>
+    <ProjectSubType>
+    </ProjectSubType>
+    <SortOrder>1000</SortOrder>
+    <CreateNewFolder>true</CreateNewFolder>
+    <DefaultName>Sesli_Kitap_Uygulamasi_Bilgi_ Sistemi</DefaultName>
+    <ProvideDefaultName>true</ProvideDefaultName>
+    <LocationField>Enabled</LocationField>
+    <EnableLocationBrowseButton>true</EnableLocationBrowseButton>
+    <Icon>__TemplateIcon.ico</Icon>
+  </TemplateData>
+  <TemplateContent>
+    <Project TargetFileName="Sesli_Kitap_Uygulamasi_Bilgi_ Sistemi.csproj" File="Sesli_Kitap_Uygulamasi_Bilgi_ Sistemi.csproj" ReplaceParameters="true">
+      <ProjectItem ReplaceParameters="true" TargetFileName="App.config">App.config</ProjectItem>
+      <ProjectItem ReplaceParameters="true" TargetFileName="Form1.cs">Form1.cs</ProjectItem>
+      <ProjectItem ReplaceParameters="true" TargetFileName="Form1.Designer.cs">Form1.Designer.cs</ProjectItem>
+      <ProjectItem ReplaceParameters="true" TargetFileName="Form1.resx">Form1.resx</ProjectItem>
+      <ProjectItem ReplaceParameters="true" TargetFileName="FrmAdminGiris.cs">FrmAdminGiris.cs</ProjectItem>
+      <ProjectItem ReplaceParameters="true" TargetFileName="FrmAdminGiris.Designer.cs">FrmAdminGiris.Designer.cs</ProjectItem>
+      <ProjectItem ReplaceParameters="true" TargetFileName="FrmAdminGiris.resx">FrmAdminGiris.resx</ProjectItem>
+      <ProjectItem ReplaceParameters="true" TargetFileName="FrmAdminPanel.cs">FrmAdminPanel.cs</ProjectItem>
+      <ProjectItem ReplaceParameters="true" TargetFileName="FrmAdminPanel.Designer.cs">FrmAdminPanel.Designer.cs</ProjectItem>
+      <ProjectItem ReplaceParameters="true" TargetFileName="FrmAdminPanel.resx">FrmAdminPanel.resx</ProjectItem>
+      <ProjectItem ReplaceParameters="true" TargetFileName="FrmKitapAl.cs">FrmKitapAl.cs</ProjectItem>
+      <ProjectItem ReplaceParameters="true" TargetFileName="FrmKitapAl.Designer.cs">FrmKitapAl.Designer.cs</ProjectItem>
+      <ProjectItem ReplaceParameters="true" TargetFileName="FrmKitapAl.resx">FrmKitapAl.resx</ProjectItem>
+      <ProjectItem ReplaceParameters="true" TargetFileName="FrmKullaniciGiris.cs">FrmKullaniciGiris.cs</ProjectItem>
+      <ProjectItem ReplaceParameters="true" TargetFileName="FrmKullaniciGiris.Designer.cs">FrmKullaniciGiris.Designer.cs</ProjectItem>
+      <ProjectItem ReplaceParameters="true" TargetFileName="FrmKullaniciGiris.resx">FrmKullaniciGiris.resx</ProjectItem>
+      <ProjectItem ReplaceParameters="true" TargetFileName="FrmKullaniciİslemleri.cs">vstg0001.cs</ProjectItem>
+      <ProjectItem ReplaceParameters="true" TargetFileName="FrmKullaniciİslemleri.Designer.cs">vstg0002.Designer.cs</ProjectItem>
+      <ProjectItem ReplaceParameters="true" TargetFileName="FrmKullaniciİslemleri.resx">vstg0003.resx</ProjectItem>
+      <ProjectItem ReplaceParameters="true" TargetFileName="FrmKullaniciPaneli.cs">FrmKullaniciPaneli.cs</ProjectItem>
+      <ProjectItem ReplaceParameters="true" TargetFileName="FrmKullaniciPaneli.Designer.cs">FrmKullaniciPaneli.Designer.cs</ProjectItem>
+      <ProjectItem ReplaceParameters="true" TargetFileName="FrmKullaniciPaneli.resx">FrmKullaniciPaneli.resx</ProjectItem>
+      <ProjectItem ReplaceParameters="true" TargetFileName="FrmKutuphaneIslemleri.cs">FrmKutuphaneIslemleri.cs</ProjectItem>
+      <ProjectItem ReplaceParameters="true" TargetFileName="FrmKutuphaneIslemleri.Designer.cs">FrmKutuphaneIslemleri.Designer.cs</ProjectItem>
+      <ProjectItem ReplaceParameters="true" TargetFileName="FrmKutuphaneIslemleri.resx">FrmKutuphaneIslemleri.resx</ProjectItem>
+      <ProjectItem ReplaceParameters="true" TargetFileName="FrmKutuphanem.cs">FrmKutuphanem.cs</ProjectItem>
+      <ProjectItem ReplaceParameters="true" TargetFileName="FrmKutuphanem.Designer.cs">FrmKutuphanem.Designer.cs</ProjectItem>
+      <ProjectItem ReplaceParameters="true" TargetFileName="FrmKutuphanem.resx">FrmKutuphanem.resx</ProjectItem>
+      <ProjectItem ReplaceParameters="true" TargetFileName="FrmProfil.cs">FrmProfil.cs</ProjectItem>
+      <ProjectItem ReplaceParameters="true" TargetFileName="FrmProfil.Designer.cs">FrmProfil.Designer.cs</ProjectItem>
+      <ProjectItem ReplaceParameters="true" TargetFileName="FrmProfil.resx">FrmProfil.resx</ProjectItem>
+      <ProjectItem ReplaceParameters="true" TargetFileName="packages.config">packages.config</ProjectItem>
+      <ProjectItem ReplaceParameters="true" TargetFileName="Program.cs">Program.cs</ProjectItem>
+      <Folder Name="Properties" TargetFolderName="Properties">
+        <ProjectItem ReplaceParameters="true" TargetFileName="AssemblyInfo.cs">AssemblyInfo.cs</ProjectItem>
+        <ProjectItem ReplaceParameters="true" TargetFileName="Resources.resx">Resources.resx</ProjectItem>
+        <ProjectItem ReplaceParameters="true" TargetFileName="Resources.Designer.cs">Resources.Designer.cs</ProjectItem>
+        <ProjectItem ReplaceParameters="true" TargetFileName="Settings.settings">Settings.settings</ProjectItem>
+        <ProjectItem ReplaceParameters="true" TargetFileName="Settings.Designer.cs">Settings.Designer.cs</ProjectItem>
+      </Folder>
+    </Project>
+  </TemplateContent>
+</VSTemplate>
